@@ -1,1 +1,2 @@
-my second commit altered
+my second commit
+Happy lesson
